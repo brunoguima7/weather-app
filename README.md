@@ -12,4 +12,4 @@ Aplicativo simples para consulta de clima de cidades em tempo real utilizando a 
 
 Você pode instalá-lo localmente ou acessá-lo em:
 
-https://bg-weather-app.vercel.app
+https://bgd-weather-app.vercel.app
